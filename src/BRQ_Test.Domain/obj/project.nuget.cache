@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYTZFzjDASdGDLncYBT5F7nxoDZ47TNRnQEeqTIhmHrTaXkAgJfRwJtTjWdpjFrCQmNvT9Znaglf7S+Q35DifQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Richard\\source\\repos\\BRQ\\BRQ_Test\\src\\BRQ_Test.Domain\\BRQ_Test.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fluentvalidation\\9.5.0\\fluentvalidation.9.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.0\\fluentvalidation.aspnetcore.9.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.0\\fluentvalidation.dependencyinjectionextensions.9.5.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\bin\Debug\netcoreapp3.1\BRQ_Test.Domain.deps.json
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\bin\Debug\netcoreapp3.1\BRQ_Test.Domain.dll
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\bin\Debug\netcoreapp3.1\BRQ_Test.Domain.pdb
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.AssemblyInfo.cs
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.dll
+C:\Users\Richard\source\repos\BRQ\BRQ_Test\src\BRQ_Test.Domain\obj\Debug\netcoreapp3.1\BRQ_Test.Domain.pdb
